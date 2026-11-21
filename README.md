@@ -4,7 +4,7 @@
 | Certification | Issuer | Issued | Certificate | Verify |
 |---|---|---|---|---|
 | Cisco Certified Network Associate (CCNA) | Cisco | Nov 2026 | [View](Cisco_CCNA.pdf) | [Verify](https://cp.certmetrics.com/cisco/en/public/verify/credential/c27da9bc17b4440199b5d616112ceec0) |
-| AWS Certified Solutions Architect – Associate | Amazon Web Services | Mar 2026 | [View](AWS_Solutions_Architect_Associate.pdf) | Credly link coming soon |
+| AWS Certified Solutions Architect – Associate | Amazon Web Services | Mar 2026 | [View](AWS_Solutions_Architect_Associate.pdf) | [Verify](https://cp.certmetrics.com/amazon/en/public/verify/credential/45ba7c7e9d7749f994810c83d79aacfb) |
 | Certified Ethical Hacker (CEH) | EC-Council | Sep 2026 | [View](EC-Council_CEH.pdf) | Verification link coming soon |
 | CompTIA CySA+ | CompTIA | Feb 2026 | [View](CompTIA_CySA_Plus.pdf) | Credly link coming soon |
 | CompTIA Security+ | CompTIA | Feb 2026 | [View](CompTIA_Security_Plus.pdf) | Credly link coming soon |
@@ -13,9 +13,9 @@
 | Building RAG Agents with LLMs | NVIDIA | Nov 2026 | [View](NVIDIA_Building_RAG_Agents_LLMs.pdf) | [Verify](https://learn.nvidia.com/certificates?id=ZninJdTAQKiDlSEPs9lXMQ) |
 
 ## 📚 In Progress
-- CompTIA Linux+
-- Microsoft AI-103
-- Project management (CAPM)
+- Linux administration
+- Microsoft 365
+- Project management
 
 ## 🔗 Portfolio
 See my projects at [github.com/Ernest5275](https://github.com/Ernest5275):

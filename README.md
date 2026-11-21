@@ -14,9 +14,9 @@
 | Building RAG Agents with LLMs | NVIDIA | Nov 2026 | [View](NVIDIA_Building_RAG_Agents_LLMs.pdf) | [Verify](https://learn.nvidia.com/certificates?id=ZninJdTAQKiDlSEPs9lXMQ) |
 
 ## 📚 In Progress
-- Linux administration
-- Microsoft 365
-- Project management
+- CompTIA Linux+
+- Microsoft Azure AI-103
+- Project management (CAPM)
 
 ## 🔗 Portfolio
 See my projects at [github.com/Ernest5275](https://github.com/Ernest5275):
